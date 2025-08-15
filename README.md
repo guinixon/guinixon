@@ -24,4 +24,4 @@ Estudante de engenharia de software apaixonado em tecnologia e inovação buscan
 
 ### Meus Principais Desafios de Projeto
 
-[![Repo Gemini & Python](https://github-readme-stats.vercel.app/api/pin/?username=guinixon&repo=gemini-e-python-ferramenta-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo Gemini & Python](https://github-readme-stats.vercel.app/api/pin/?username=guinixon&repo=gemini-e-python-ferramenta-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/guinixon/gemini-e-python-ferramenta-api.git)
